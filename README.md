@@ -2,11 +2,11 @@
 SMS AND CALL BOMBING BY ASHOK KANUKA 
 # ASHOK KANUKA ATTACK 
 
-<b>Introducing iSpammer Created by Mr. SparX
-It's a SMS Bomber only For Indian Numbers
-Full Tutorial Video</b>
-<a href='https://youtu.be/vcYESgi_Mh4'>Tutorial of iSpammer</a>
 
+
+
+
+<b> ashokattack a unlimited sms and call bombet
 <b>Steps:</b><br>
 ```
 apt install python3 curl git -y
