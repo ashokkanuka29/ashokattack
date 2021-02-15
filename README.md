@@ -11,7 +11,7 @@ SMS AND CALL BOMBING BY ASHOK KANUKA
 ```
 apt install python3 curl git -y
 git clone https://github.com/ashokkanuka29/ashokattack
-cd iSpammer
+cd ashokattack 
 pip3 install -r requirements.txt
 python3 ashok.py -m Number_of_messages -t target's_mobile_number
 ```
